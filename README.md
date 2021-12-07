@@ -1,11 +1,11 @@
 # ISE-3230-Project
 Files for ISE 3230 Group Project
 
-Distance Matrix: Matrix of distances between each power 5 schools.
+distance_matrix.csv: Matrix of distances between each power 5 schools.
 
 Project.py: Python file containing the code to run the optimization problem using the distances provided in the distance matrix.
 
-x.output: The output of the python file corresponding to each x_ij value where a 1 represents that route taken and a 0 otherwise. The is are the row numbers and the js are the column numbers
+xoutput.csv: The output of the python file corresponding to each x_ij value where a 1 represents that route taken and a 0 otherwise. The is are the row numbers and the js are the column numbers
 
 Schools associated with each number are:
 1   Ohio State University, Columbus, Ohio
